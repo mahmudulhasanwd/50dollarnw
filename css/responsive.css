@@ -1,0 +1,856 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+
+    .before-we-know-img-content {
+        right: 30px;
+    }
+
+    .main-heading::after {
+        right: 195px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+
+    .meet-box-left p {
+        padding: 0px 20px;
+    }
+
+    .meet-box-right p {
+        padding: 0px 20px;
+    }
+
+    .just-plain-text p {
+        font-size: 13px;
+    }
+
+    .before-we-know-img-content h4 {
+        font-size: 24px;
+        position: relative;
+    }
+
+    .before-we-know-img-content {
+        width: 330px;
+        right: 0px;
+    }
+
+
+    .youtube-video iframe {
+        width: 100%;
+    }
+
+    .main-heading::after {
+        right: 10%;
+    }
+    .p2-img img {
+        height: 190px;
+    }
+    .p2-iconbox-top-one p {
+        font-size: 10px;
+    }
+    .download-right img {
+        width: 253px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (min-width: 576px) and (max-width: 767px) {
+
+    /* page-one-start */
+    .main-heading {
+        margin-top: 35px;
+    }
+
+    .main-heading img {
+        width: 100%;
+    }
+
+    .youtube-video iframe {
+        width: 100%;
+        height: 300px;
+    }
+
+    .main1-text {
+        margin-top: 35px;
+    }
+
+    .main1-text-wrapper {
+        padding-left: 16px;
+        padding-right: 15px;
+        padding-top: 20px;
+    }
+
+    .main1-text-wrapper h4 {
+        font-size: 20px;
+    }
+
+    .main1-text-wrapper h4 {
+        font-size: 18px;
+    }
+
+    .main1-text-wrapper p {
+        margin-top: 20px;
+    }
+
+    .main2-text-area {
+        margin-top: 40px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .main2-black p {
+        font-size: 16px;
+        margin-top: 20px;
+    }
+
+    .amin2-normal p {
+        margin-top: 20px;
+    }
+
+    .main2-img {
+        position: inherit;
+    }
+
+    .before-we-know {
+        margin-top: 30px;
+        padding: 25px 15px 25px 15px;
+    }
+
+    .bofore-we-know-img {
+        padding-left: 0;
+    }
+
+    .bofore-we-know-img img {
+        width: 100%;
+    }
+
+    .before-we-know-img-content {
+        width: 100%;
+        padding: 15px 15px 15px 15px;
+        position: inherit;
+        right: 0;
+        bottom: -27px;
+    }
+
+    .before-we-know-img-content h4::before {
+        top: -30px;
+        left: -34px;
+        font-size: 25px;
+    }
+
+    .trading-area-content {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .trading-area-content p {
+        margin-top: 20px;
+    }
+
+    .most-traders h3 {
+        font-size: 20px;
+    }
+
+    .most-traders h3 br {
+        display: none;
+    }
+
+    .most-traders {
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .just-plain {
+        padding: 30px 15px;
+    }
+
+    .just-plain p {
+        margin-bottom: 20px;
+    }
+
+    .just-plain-imgbox {
+        display: block;
+        border-radius: 20px;
+        padding: 20px 15px 20px 15px;
+        margin-right: 0;
+        text-align: center;
+    }
+
+    .just-plain-text p br {
+        display: none;
+    }
+
+    /* page-one-end */
+
+    /* page-two-start */
+    .p2-title {
+        padding: 50px 15px 0px 15px;
+    }
+
+    .p2-title-wrap h1 {
+        font-size: 30px;
+    }
+
+    .p2-img-wrap {
+        padding: 20px 15px 50px 15px;
+    }
+
+    .p2-img {
+        width: 45%;
+    }
+
+    .p2-img img {
+        height: 200px;
+    }
+
+    .p2-a-platfrom-wrapper {
+        padding: 50px 15px;
+    }
+
+    .p2-a-platfrom-wrapper p {
+        margin-top: 20px;
+    }
+
+    .p2-image-text {
+        padding: 40px 15px 35px 15px;
+    }
+
+    .p2-imgbox-text {
+        display: block;
+        padding: 0;
+        border-radius: 45px;
+        text-align: center;
+    }
+
+    .p2-imgbox-img img {
+        margin-right: 0;
+        margin: 20px 0;
+    }
+
+    .p2-imgtext {
+        padding-right: 0;
+        padding-bottom: 15px;
+    }
+
+    .p2-slider-wrapper {
+        padding: 70px 50px 16px 50px;
+    }
+
+    .p2-text-wrapper {
+        padding: 30px 15px;
+    }
+
+    .p2-package-wrapper {
+        padding: 30px 15px;
+    }
+
+    .p2-package-wrapper h2 {
+        font-size: 20px;
+    }
+
+    .sound-to-good-wrapper {
+        padding: 40px 15px;
+    }
+
+    .p2-iconbox {
+        padding: 50px 15px 20px 15px;
+    }
+
+    .p2-iconbox-top {
+        flex-wrap: wrap;
+    }
+
+    .p2-iconbox-top-one {
+        width: 100%;
+    }
+
+    .p2-iconbox-bottom {
+        flex-wrap: wrap;
+    }
+
+    .you-are-probably {
+        padding: 40px 15px 40px 15px;
+    }
+
+    .its-important {
+        padding: 50px 15px;
+    }
+
+    .p2-its-important-imgbox {
+        display: block;
+        text-align: center;
+        padding: 20px 10px 20px 10px;
+        border-radius: 40px;
+    }
+
+    .p2-its-important-img img {
+        border-radius: 50%;
+        margin-right: 0;
+        margin: 20px 0px;
+    }
+
+    .p2-its-important-text {
+        padding-right: 0;
+    }
+
+    .expectation-area {
+        padding: 50px 15px;
+    }
+
+    .expectation-title h2 {
+        font-size: 20px;
+    }
+
+    .container {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .the-market-text {
+        padding: 50px 15px;
+    }
+
+    .download-now {
+        display: block;
+    }
+
+    .download-left-img {
+        text-align: center;
+    }
+
+    .download-right img {
+        width: 100%;
+        transform: scale(1);
+    }
+
+    .the-model {
+        padding: 50px 15px;
+    }
+
+    .p2-iconbox-top-one p {
+        font-size: 15px;
+    }
+
+    /* page-two-end */
+
+    /* page-3-start */
+    .meet-trader {
+        padding: 45px 15px 35px 15px;
+    }
+
+    .meet-box-top {
+        display: block;
+    }
+
+    .meet-box-left {
+        width: 100%;
+    }
+
+    .meet-box-right {
+        width: 100%;
+    }
+
+    .so-what-wrapper {
+        padding: 50px 15px;
+    }
+
+    .so-what-iconbox {
+        display: block;
+    }
+
+    .so-what-icon-item {
+        margin-bottom: 30px;
+    }
+
+    .main-heading::after {
+        right: 0%;
+    }
+
+    /* page-3-end */
+
+    .main-bottom-img {
+        padding: 60px 0px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 576px) {
+
+    /* page-one-start */
+    .main-heading {
+        margin-top: 35px;
+    }
+
+    .main-heading img {
+        width: 100%;
+    }
+
+    .youtube-video iframe {
+        width: 100%;
+        height: 224px;
+    }
+
+    .main1-text {
+        margin-top: 35px;
+    }
+
+    .main1-text-wrapper {
+        padding-left: 16px;
+        padding-right: 15px;
+        padding-top: 20px;
+    }
+
+    .main1-text-wrapper h4 {
+        font-size: 20px;
+    }
+
+    .main1-text-wrapper h4 {
+        font-size: 18px;
+    }
+
+    .main1-text-wrapper p {
+        margin-top: 20px;
+    }
+
+    .main2-text-area {
+        margin-top: 40px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .main2-black p {
+        font-size: 16px;
+        margin-top: 20px;
+    }
+
+    .amin2-normal p {
+        margin-top: 20px;
+    }
+
+    .main2-img {
+        position: inherit;
+    }
+
+    .before-we-know {
+        margin-top: 30px;
+        padding: 25px 15px 25px 15px;
+    }
+
+    .bofore-we-know-img {
+        padding-left: 0;
+    }
+
+    .bofore-we-know-img img {
+        width: 100%;
+    }
+
+    .before-we-know-img-content {
+        width: 100%;
+        padding: 15px 15px 15px 15px;
+        position: inherit;
+        right: 0;
+        bottom: -27px;
+    }
+
+    .before-we-know-img-content h4::before {
+        top: -33px;
+        left: -14px;
+        font-size: 25px;
+    }
+
+    .trading-area-content {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .trading-area-content p {
+        margin-top: 20px;
+    }
+
+    .most-traders h3 {
+        font-size: 20px;
+    }
+
+    .most-traders h3 br {
+        display: none;
+    }
+
+    .most-traders {
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .just-plain {
+        padding: 30px 15px;
+    }
+
+    .just-plain p {
+        margin-bottom: 20px;
+    }
+
+    .just-plain-imgbox {
+        display: block;
+        border-radius: 20px;
+        padding: 20px 15px 20px 15px;
+        margin-right: 0;
+        text-align: center;
+    }
+
+    .just-plain-text p br {
+        display: none;
+    }
+
+    /* page-one-end */
+
+    /* page-two-start */
+    .p2-title {
+        padding: 50px 15px 0px 15px;
+    }
+
+    .p2-title-wrap h1 {
+        font-size: 30px;
+    }
+
+    .p2-img-wrap {
+        padding: 20px 15px 50px 15px;
+    }
+
+    .p2-img {
+        width: 45%;
+    }
+
+    .p2-img img {
+        height: 140px;
+    }
+
+    .p2-a-platfrom-wrapper {
+        padding: 50px 15px;
+    }
+
+    .p2-a-platfrom-wrapper p {
+        margin-top: 20px;
+    }
+
+    .p2-image-text {
+        padding: 40px 15px 35px 15px;
+    }
+
+    .p2-imgbox-text {
+        display: block;
+        padding: 0;
+        border-radius: 45px;
+        text-align: center;
+    }
+
+    .p2-imgbox-img img {
+        margin-right: 0;
+        margin: 20px 0;
+    }
+
+    .p2-imgtext {
+        padding-right: 0;
+        padding-bottom: 15px;
+    }
+
+    .p2-slider-wrapper {
+        padding: 70px 50px 16px 50px;
+    }
+
+    .p2-text-wrapper {
+        padding: 30px 15px;
+    }
+
+    .p2-package-wrapper {
+        padding: 30px 15px;
+    }
+
+    .p2-package-wrapper h2 {
+        font-size: 20px;
+    }
+
+    .sound-to-good-wrapper {
+        padding: 40px 15px;
+    }
+
+    .p2-iconbox {
+        padding: 50px 15px 20px 15px;
+    }
+
+    .p2-iconbox-top {
+        flex-wrap: wrap;
+    }
+
+    .p2-iconbox-top-one {
+        width: 100%;
+    }
+
+    .p2-iconbox-bottom {
+        flex-wrap: wrap;
+    }
+
+    .you-are-probably {
+        padding: 40px 15px 40px 15px;
+    }
+
+    .its-important {
+        padding: 50px 15px;
+    }
+
+    .p2-its-important-imgbox {
+        display: block;
+        text-align: center;
+        padding: 20px 10px 20px 10px;
+        border-radius: 40px;
+    }
+
+    .p2-its-important-img img {
+        border-radius: 50%;
+        margin-right: 0;
+        margin: 20px 0px;
+    }
+
+    .p2-its-important-text {
+        padding-right: 0;
+    }
+
+    .expectation-area {
+        padding: 50px 15px;
+    }
+
+    .expectation-title h2 {
+        font-size: 20px;
+    }
+
+    .container {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .the-market-text {
+        padding: 50px 15px;
+    }
+
+    .download-now {
+        display: block;
+    }
+
+    .download-left-img {
+        text-align: center;
+    }
+
+    .download-right img {
+        width: 100%;
+        transform: scale(1);
+    }
+
+    .the-model {
+        padding: 50px 15px;
+    }
+
+    .p2-iconbox-top-one p {
+        font-size: 15px;
+    }
+
+    /* page-two-end */
+
+    /* page-3-start */
+    .meet-trader {
+        padding: 45px 15px 35px 15px;
+    }
+
+    .meet-box-top {
+        display: block;
+    }
+
+    .meet-box-left {
+        width: 100%;
+    }
+
+    .meet-box-right {
+        width: 100%;
+    }
+
+    .so-what-wrapper {
+        padding: 50px 15px;
+    }
+
+    .so-what-iconbox {
+        display: block;
+    }
+
+    .so-what-icon-item {
+        margin-bottom: 30px;
+    }
+
+    .meet-box-left p {
+        padding: 0px 0px;
+    }
+
+    .meet-box-right p {
+        padding: 0px 0px;
+    }
+
+    /* page-3-end */
+
+    .main-heading h4 {
+        font-size: 18px;
+    }
+
+    .main-heading h2 {
+        font-size: 25px;
+    }
+    .main-heading h1 {
+        font-size: 97px;
+    }
+    .main-heading h3 {
+        font-size: 25px;
+    }
+    .main-heading h3 span {
+        font-size: 23px;
+    }
+    .bluefx {
+        font-size: 32px !important;
+    }
+    .main-heading::after {
+        right: 0;
+        bottom: -10px;
+    }
+    .youtube-video {
+        padding: 0px 15px;
+    }
+    .main-bottom-img {
+        padding: 60px 0px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
